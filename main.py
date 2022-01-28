@@ -2,7 +2,7 @@ import streamlit as st
 
 
 ## simple hello world!!!
-st.write ("Howdy World! My Name is Curt\n")
+st.write ("Howdy World! \n My Name is Curt\n")
 
 import random
 import pandas as pd
